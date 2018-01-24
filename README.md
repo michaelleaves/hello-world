@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+just oaather repository
+
+Hi humans!
+Hubot here, I like Node.js and Coddeescript/////
